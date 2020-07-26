@@ -2,11 +2,11 @@
 
 这里是一个简简单单的介绍页面
 
-你也可以选择看看极客导航(https://www.open356.com)
+你也可以选择看看 [极客导航](https://www.open356.com/)
 
 ### 简介
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+极客俱乐部是南阳一中官方社团，创立于2018年。我们致力于信息技术的普及和研究，目前正准备与其他社团合作，在种种不利情况下扩大影响。
 
 ```markdown
 Syntax highlighted code block
