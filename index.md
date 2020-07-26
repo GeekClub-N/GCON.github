@@ -9,29 +9,30 @@
 极客俱乐部是南阳一中官方社团，创立于2018年。我们致力于信息技术的普及和研究，目前正准备与其他社团合作，在种种不利情况下扩大影响。
 
 ```markdown
-Syntax highlighted code block
+# Q&A
+### Q：如果我想加入社团，我需要有什么条件呢？
+A：你需要以下一些条件中的一个或多个
++ 掌握一门以上的编程语言，如C++、C、Python、Java、Visual Basic、HTML
++ 掌握一定的电子设备使用经验，能熟练操作，维修，__不张口就来__
++ 有一定的软件操作能力，比如Photoshop、Powerpoint
++ 摄影等
++ 有张嘴
 
-# Header 1
-## Header 2
-### Header 3
+### Q：如果我都不会呢？
+A：活跃就行 XD
 
-- Bulleted
-- List
+### Q：社团都有什么活动？
+A：待定。去问问社长呗
 
-1. Numbered
-2. List
+### Q：社团里都有什么人？
+A：38%的内鬼，46%的神仙，8%的小白，8%的BB机
 
-**Bold** and _Italic_ and `Code` text
+### Q:我全都明白了，我该怎样加入呢？
+A：先去填表，[链接戳我]（https://www.wjx.top/m/84413214.aspx）
 
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GeekClub-N/GCON.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 更多联系方式
+QQ群：1135393771
+Telegram [@nyyzgck](https://t.me/nyyzgck)
+钉钉 UFUA7016（团队号）
