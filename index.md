@@ -1,5 +1,5 @@
 # 极客俱乐部
-<img src="https://gitee.com/CNLX/ceshiwenjian/blob/master/%E6%9E%81%E5%AE%A2logo.png" width="30%">
+<img src="https://github.com/GeekClub-N/GCON.github.io/blob/master/%E6%9E%81%E5%AE%A2logo.png" width="30%">
 
 这里是一个简简单单的介绍页面
 
@@ -40,6 +40,11 @@ A：待定。去问问社长呗
 Q：社团里都有什么人？
 
 A：38%的内鬼，46%的神仙，8%的小白，8%的BB机
+
+---
+Q：为什么这个网站图挂了？
+
+A：<s>因为我傻</s>
 
 ---
 Q:我全都明白了，我该怎样加入呢？
