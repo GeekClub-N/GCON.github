@@ -13,6 +13,7 @@
 
 现在，你的浪潮，来了。
 
+<s>你想做同学眼里最装逼的那个人吗？你想随随便便露两手就让人闻风丧胆吗？快洗洗睡吧！</s>
 
 ## Q&A
 
@@ -53,10 +54,12 @@ A：先去填表，[链接戳我](https://www.wjx.top/m/84413214.aspx)
 
 
 
+
 ## 更多联系方式
-QQ群：1135393771
+QQ群 [1135393771](https://qm.qq.com/cgi-bin/qm/qr?k=6UWi6vT6RixnuIsB_B5Uzoz5ItNsxWte&authKey=3QNzxGAQUMFhVQNff2U6wUQ9uwLpalgadqPJk/TQTy83yMLPBM6TC2FGasNVdyl0&noverify=0)
 
 Telegram [@nyyzgck](https://t.me/nyyzgck)
 
 钉钉 UFUA7016（团队号）
 
+<!--恭喜你发现我啦，欢迎给我发邮件 guoxiang0318@gmail.com -->
