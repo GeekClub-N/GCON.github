@@ -1,5 +1,5 @@
 # 极客俱乐部
-<img src="https://github.com/GeekClub-N/GCON.github.io/blob/master/%E6%9E%81%E5%AE%A2logo.png" width="30%">
+<img src="https://gitee.com/CNLX/ceshiwenjian/blob/master/%E6%9E%81%E5%AE%A2logo.png" width="30%">
 
 这里是一个简简单单的介绍页面
 
