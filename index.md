@@ -98,7 +98,7 @@ A：先去填表，[链接戳我](https://www.wjx.top/m/84413214.aspx)
 ## 更多联系方式
 QQ群 [1135393771](https://qm.qq.com/cgi-bin/qm/qr?k=6UWi6vT6RixnuIsB_B5Uzoz5ItNsxWte&authKey=3QNzxGAQUMFhVQNff2U6wUQ9uwLpalgadqPJk/TQTy83yMLPBM6TC2FGasNVdyl0&noverify=0)
 
-Telegram [@nyyzgck](https://t.me/nyyzgck
+Telegram [@nyyzgck](https://t.me/nyyzgck)
 
 
 
